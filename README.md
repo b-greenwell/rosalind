@@ -1,0 +1,1 @@
+I'm teaching myself Python (and GitHub!) by using the Rosalind series of bioinformatic problems as a crash course. I'm coming from 8 years of Perl/BioPerl and 3 years of R/Bioconductor for data analysis, so there are quite a few instances where I'll try to write something in a similar manner as those languages.
